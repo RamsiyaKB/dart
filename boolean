@@ -1,0 +1,14 @@
+void main()
+{ 
+   bool a=10<5;
+   print(a);
+  
+  String b = 'error'; 
+  String c = 'detected'; 
+    
+  bool val = (b==c);
+  print (val);
+  
+  
+  
+}
